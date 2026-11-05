@@ -1,0 +1,5 @@
+app:
+  name: secretguard-test-project
+  environment: test
+
+# Synthetic test repository: no real credentials are stored here.
